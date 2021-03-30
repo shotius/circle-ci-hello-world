@@ -8,4 +8,4 @@ job:
           password: $DOCKERHUB_PASSWORD 
         steps: 
           - checkout
-          - run: echo 'hello world'
+          - run: echo 'here we go again'
